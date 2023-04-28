@@ -18,3 +18,6 @@ Identification of group status predictors by random forest analysis. Random fore
 
 Abundance level of proteins identified as significantly different between arms receiving FTC-TDF or FTC-TAF. PrEP arms were merged by the type of administered drug and compared between each other and to controls. Analyses of data is shown in (A) for Olink and (B) for Luminex. Results were considered significant when p < 0.05 *p < 0.05; **p < 0.01; ***p < 0.001.
 
+## Full article
+
+Petkov S, Herrera C, Else L, Mugaba S, Namubiru P, Odoch G, Opoka D, Pillay AAP, Seiphetlo TB, Serwanga J, Ssemata AS, Kaleebu P, Webb EL, Khoo S, Lebina L, Gray CM, Martinson N, Fox J, Chiodi F. Mobilization of systemic CCL4 following HIV pre-exposure prophylaxis in young men in Africa. Front Immunol. 2022 Jul 27;13:965214. doi: 10.3389/fimmu.2022.965214. PMID: 35967369; PMCID: PMC9363563.
