@@ -45,5 +45,6 @@ plasma_annotated %>% dplyr::filter(protein %in% byDrug_proteins, group == "C"
 
 annotated_olink %>% dplyr::filter(marker %in% byDrug_proteins, Group == "Circumcision", subj %in% paired_samples$subj) %>% tab(Drug, marker)
 
+# save figures
 ggsave("combined_byDrug__.pdf", plot = last_plot(), device = cairo_pdf, width = 4, height = 3, scale = 2)
 ggsave("combined_byDrug_alldata.png", plot = last_plot(), device = "png", width = 6, height = 6, scale = 2)
